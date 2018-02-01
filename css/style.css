@@ -1,0 +1,79 @@
+*{
+	transition: all .1s ease-in;
+	margin: 0;
+	padding: 0;
+}
+.page-header{
+	background-color: #23232e;
+	font-family: "Tahoma", serif;
+	text-align: center;
+	margin: 0 auto;
+}
+.header-logo img{
+	width: 135px;
+	margin: 80px 0 175px;
+	}
+.promo h2{
+	color: #ffffff;
+	text-transform: uppercase;
+	text-align: center;
+	font: 700 80px/1.5 "Tahoma";
+	margin-bottom: 60px;
+}
+.promo p{
+	color: #ffffff;
+	text-align: center;
+	font: 400 18px/30px "Tahoma";
+	margin-bottom: 180px;
+}
+.nav a{
+    display: inline-block;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #ffffff;
+    margin-bottom: 40px;
+}
+.about{
+	background-color: #ffffff;
+	font-family: "Tahoma", serif;
+	text-align: center;
+	margin-top: 100px;
+}
+.about p{
+	color: #464b4f;
+	text-align: center;
+	font: 400 18px/1.5 "Tahoma";
+	margin-bottom: 50px;
+
+}
+h2.ido{
+    color: #464b4f;
+    text-transform: uppercase;
+    text-align: center;
+    font: 700 80px/1.5 "Tahoma";
+    padding: 50px;
+}
+.features{
+	margin: 0 auto;
+	width: 1070px;
+}
+.feature-item{
+	display: inline-block;
+}
+.feature-item h6{
+	color: #464b4f;
+	text-align: center;
+	font: 700 18px/1.5 "Tahoma";
+}
+.feature-item p{
+	color: #464b4f;
+	text-align: left;
+	font: 400 18px/1.5 "Tahoma";
+	padding: 20px;
+	padding-bottom: 120px;
+}
+
+
+
+
